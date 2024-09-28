@@ -1,6 +1,15 @@
 ## Привет 👋 Я Константин, Frontend разрабтчик.
 
-### Мои компетенции: HTML, CSS, JavaScript/TypeScript, React, Redux(Redux Toolkit, Redux Saga), Git, Webpack...
+### Мои компетенции: 
+- HTML;
+- CSS;
+- JavaScript/TypeScript;
+- React;
+- Redux(Redux Toolkit, Redux Saga);
+- Git;
+- Webpack;
+
+  
 ### Проекты: 
 - [Система бронирования ж/д билетов](https://github.com/Kohstantih/diploma_railway-ticket-booking-system.git) - **React, TypeScript, Redux Toolkit**
 - [Интернет магазин обуви](https://github.com/Kohstantih/react_diploma_online-shoe-store.git) - **React, TypeScript, Redux Toolkit, Redux Saga**
