@@ -5,7 +5,7 @@
 - CSS;
 - JavaScript/TypeScript;
 - React;
-- Redux(Redux Toolkit, Redux Saga);
+- Redux (Redux Toolkit, Redux Saga);
 - Git;
 - Webpack;
 
