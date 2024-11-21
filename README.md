@@ -2,7 +2,7 @@
 
 ### Мои компетенции: 
 - HTML;
-- CSS;
+- CSS, SCSS;
 - JavaScript/TypeScript;
 - React;
 - Redux (Redux Toolkit, Redux Saga);
