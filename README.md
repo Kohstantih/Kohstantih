@@ -7,10 +7,11 @@
 - React;
 - Redux (Redux Toolkit, Redux Saga);
 - Git;
-- Webpack;
+- Webpack, Vite;
 
   
 ### Проекты: 
+- [Сайт. Верстка + Адаптив](https://github.com/Kohstantih/rezilla__landing) - **HTML, SCSS, JS**
 - [Сайт. Верстка + Адаптив](https://github.com/Kohstantih/positivus) - **HTML, SCSS**
 - [Сайт. Верстка + Адаптив](https://github.com/Kohstantih/kropp-fitness) - **HTML, CSS**
 - [Система бронирования ж/д билетов](https://github.com/Kohstantih/diploma_railway-ticket-booking-system.git) - **React, TypeScript, Redux Toolkit**
